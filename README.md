@@ -17,3 +17,5 @@
 - day8 - Linear Algebra & Image Compression, Google Page Rank Algorithm, Unsupervised Learning K-means
 
 - day9 - Neural Networks, Pytorch implementation
+
+- day10 - Heirarchical Features, CNN
