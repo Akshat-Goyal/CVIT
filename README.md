@@ -19,3 +19,5 @@
 - day9 - Neural Networks, Pytorch implementation
 
 - day10 - Heirarchical Features, CNN
+
+- day11 - ada session, flask psql intro
