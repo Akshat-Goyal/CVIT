@@ -21,3 +21,5 @@
 - day10 - Heirarchical Features, CNN
 
 - day11 - ada session, flask psql intro
+
+- day12 - openGl intro
