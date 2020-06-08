@@ -6,7 +6,7 @@ load_dotenv(os.path.join(basedir, '.env'))
 
 USER = os.environ.get('T_USER') or 'testuser'
 PASSWORD = os.environ.get('T_PASSWORD') or 'password'
-DATABASE = os.environ.get('T_DATABASE') or 'tute'
+DATABASE = os.environ.get('T_DATABASE') or 'image_annotator'
 HOST = os.environ.get('T_HOST') or 'localhost'
 PORT = os.environ.get('T_PORT') or '5432'
 
