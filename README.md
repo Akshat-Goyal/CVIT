@@ -24,7 +24,7 @@
 
   - [Ada guide](http://hpc.iiit.ac.in/wiki/index.php/Ada_User_Guide)
     -VPN required <br>
-  - [Ada guide](https://github.com/kharyal/jupyter-notebook-on-servers)
+  - [Jupyter-notebook-on-servers](https://github.com/kharyal/jupyter-notebook-on-servers)
   - [Flask Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
   - [postressql Tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04)
   - [postgress tutorial2](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
